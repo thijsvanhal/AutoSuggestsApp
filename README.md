@@ -4,7 +4,7 @@ Gebruik jij de suggesties in Google ter inspiratie voor je zoekwoorden onderzoek
 
 Daarom heb ik de AutoSuggestsApp gecreëerd! Een app voor Windows en Mac waarbij je gemakkelijk van 5 zoekwoorden tegelijk de suggesties uit Google kunt scrapen en ze vervolgens makkelijk kunt opslaan als CSV of kopiëren naar je klembord.
 
-# Waarom deze app?
+## Waarom deze app?
 Als SEO’er doe ik geregeld zoekwoorden onderzoek. Een onderdeel hiervan is opdoen van inspiratie en dat deed ik vaak in Google zelf met de suggesties die Google gaf.
 
 ![google-suggesties](https://user-images.githubusercontent.com/26331947/204914676-8ef27578-4964-4644-a106-56483627e4ee.jpg)
@@ -21,7 +21,7 @@ Toen is het idee ontstaan voor het maken van een visuele app. Deze hoeft dan enk
 
 De app is gebouwd met Python in combinatie met Tkinter, een populaire GUI library voor Python. Uiteindelijk zijn deze scripts omgezet naar een app met Py2App (Mac) & Py2Installer (Windows).
 
-Hoe gebruik je deze app?
+## Hoe gebruik je deze app?
 
 ![autosuggestsapp](https://user-images.githubusercontent.com/26331947/204914786-b2b041d0-eae8-44da-8e92-04b3e9ea6239.jpg)
 
@@ -33,7 +33,7 @@ Het script doet er, afhankelijk van het zoekwoord en het aantal zoekwoorden, ong
 
 Zodra het script klaar is wordt de status aangepast naar ‘Klaar ✅’ en kun je op de knoppen eronder klikken.
 
-# Wat doet de ‘Download als CSV bestand’ knop?
+## Wat doet de ‘Download als CSV bestand’ knop?
 Dit plaatst een ‘zoekwoorden.csv’ bestand in je downloads map. Dit is bijzonder praktisch, want deze kun je heel snel naar Google Ads uploaden via de planstatistieken. Als je het CSV opent zul je ook zien dat ‘Cluster’ vervangen is voor ‘Ad Group’, exact hoe we het voor Google Ads willen hebben.
 
 Niet alleen zie je dan het zoekvolume per zoekwoord, je kan dit ook per cluster zien! Ga naar prognose, klik op ‘advertentiegroepen’ en sorteer vervolgens op aantal impressies.
@@ -42,10 +42,10 @@ Niet alleen zie je dan het zoekvolume per zoekwoord, je kan dit ook per cluster 
 
 Impressies staat niet helemaal gelijk aan zoekvolume maar geeft je toch een goed beeld welke clusters veel zoekvolume hebben 😉
 
-# Wat doet de ‘Kopieer naar clipboard’ knop?
+## Wat doet de ‘Kopieer naar clipboard’ knop?
 Heel simpel, kopieert het dataframe naar je clipboard zodat je deze makkelijk kunt plakken in bijvoorbeeld Excel. Tijdens het doen van een zoekwoorden vind ik dit bijzonder praktisch aangezien ik dan in de brainstorm fase heel makkelijk de lijsten kan kopiëren en in mijn Excel bestand kan zetten zodat ik deze later altijd nog weer terug kan zien!
 
 ![zoekwoorden-excel-2048x400](https://user-images.githubusercontent.com/26331947/204914946-7aee9e98-9383-4ad7-b6f5-e18b5970f9fa.jpg)
 
-# De AutoSuggestsApp downloaden
+## De AutoSuggestsApp downloaden
 Geïnteresseerd en wil je de app downloaden? Bekijk dan https://www.thijsvanhal.nl/blog/autosuggestsapp/#download
